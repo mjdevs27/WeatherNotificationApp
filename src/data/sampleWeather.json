@@ -1,0 +1,52 @@
+[
+  {
+    "cityName": "London",
+    "temperature": 14.2,
+    "feelsLike": 13.0,
+    "humidity": 72,
+    "pressure": 1015,
+    "windSpeed": 4.2,
+    "windDeg": 240,
+    "weatherMain": "Clouds",
+    "weatherDesc": "broken clouds",
+    "icon": "04d"
+  },
+  {
+    "cityName": "New York",
+    "temperature": 22.8,
+    "feelsLike": 23.2,
+    "humidity": 60,
+    "pressure": 1012,
+    "windSpeed": 3.1,
+    "windDeg": 200,
+    "weatherMain": "Clear",
+    "weatherDesc": "clear sky",
+    "icon": "01d"
+  },
+  {
+    "cityName": "Mumbai",
+    "temperature": 30.5,
+    "feelsLike": 35.0,
+    "humidity": 80,
+    "pressure": 1008,
+    "windSpeed": 5.0,
+    "windDeg": 160,
+    "weatherMain": "Rain",
+    "weatherDesc": "light rain",
+    "icon": "10d"
+  },
+  {
+    "cityName": "Tokyo",
+    "temperature": 18.4,
+    "feelsLike": 18.0,
+    "humidity": 65,
+    "pressure": 1018,
+    "windSpeed": 2.5,
+    "windDeg": 90,
+    "weatherMain": "Clouds",
+    "weatherDesc": "few clouds",
+    "icon": "02d"
+  }
+]
+
+
